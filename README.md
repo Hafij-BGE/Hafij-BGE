@@ -23,10 +23,15 @@
 
 ### 🧬 About me
 
-- 🎓 Master's student in **Biomedical Technology** at **Dokuz Eylül University**, Türkiye
-- 🧪 **At the bench:** attenuated a wild fowlpox virus isolate by serial passage in embryonated duck eggs, formulated it as a vaccine, and ran the chicken trial and antibody analysis
-- 💻 **On the computer:** deep learning, immunopeptidomics, molecular docking and dynamics, multi-omics
-- 🧠 Current research: **deep learning–based prediction of protein–protein interactions**
+I work on both sides of biology. At the bench I have propagated and attenuated a wild virus isolate into a candidate vaccine and taken it through an animal trial. On the computer I build and audit models for immunopeptidomics and protein biology. My current research focuses on **deep learning–based prediction of protein–protein interactions**.
+
+| 🧪 At the bench | 💻 On the computer |
+|---|---|
+| Virus propagation & attenuation in embryonated eggs | Deep learning for peptide & protein data |
+| Vaccine formulation, animal trials & antibody analysis | Immunopeptidomics & mass-spectrometry reanalysis |
+| DNA/RNA extraction, microbial culture & biochemical testing | Molecular docking & dynamics simulation |
+| *In vitro* testing of plant extracts | Multi-omics, statistics & reproducible pipelines |
+
 - 📐 I care about research that can be checked: preregistration, decision logs, QC gates, and keeping withdrawn results on the record
 - 🌍 Languages: Bengali (native) · English (C1) · Turkish (C1)
 
