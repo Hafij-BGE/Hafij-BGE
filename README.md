@@ -60,7 +60,27 @@
 | **CRISPR–microfluidic platform** for automated point-of-care pathogen detection | Oral presentation, DEUISGR 2025 |
 | **Plant extracts vs 15-lipoxygenase inflammation** — *in vitro* bioactivity of amla and garlic, paired with simulation | Published, 2023 |
 
-**Techniques:** virus propagation & attenuation · vaccine formulation & trials · antibody analysis · DNA/RNA extraction & quantification · microbial culture & biochemical testing · *in vitro* assays
+**Bench toolkit**
+
+*Virology & vaccines*
+
+![Virus propagation](https://img.shields.io/badge/Virus%20propagation%20(egg)-23805A?style=for-the-badge)
+![Attenuation](https://img.shields.io/badge/Serial%20passage%20attenuation-23805A?style=for-the-badge)
+![Vaccine formulation](https://img.shields.io/badge/Vaccine%20formulation-23805A?style=for-the-badge)
+![Animal trials](https://img.shields.io/badge/Animal%20trials-23805A?style=for-the-badge)
+![Antibody analysis](https://img.shields.io/badge/Antibody%20analysis-23805A?style=for-the-badge)
+
+*Molecular biology*
+
+![DNA/RNA extraction](https://img.shields.io/badge/DNA%2FRNA%20extraction-2F8F6B?style=for-the-badge)
+![Quantification](https://img.shields.io/badge/Nucleic%20acid%20quantification-2F8F6B?style=for-the-badge)
+![Molecular biology](https://img.shields.io/badge/Molecular%20biology%20techniques-2F8F6B?style=for-the-badge)
+
+*Microbiology & in vitro*
+
+![Microbial culture](https://img.shields.io/badge/Microbial%20culture-3DA17E?style=for-the-badge)
+![Biochemical testing](https://img.shields.io/badge/Biochemical%20testing-3DA17E?style=for-the-badge)
+![In vitro assays](https://img.shields.io/badge/In%20vitro%20bioactivity%20assays-3DA17E?style=for-the-badge)
 
 ---
 
