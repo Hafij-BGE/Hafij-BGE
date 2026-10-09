@@ -2,9 +2,9 @@
 
 # Hi, I'm Md. Hafijur Rahman 👋
 
-**Biomedical technology researcher bridging the wet lab and computational biology**
+**Biomedical technology researcher working at the bench and on the computer**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Immunopeptidomics+%26+mass+spectrometry;Protein+machine+learning;Multi-omics+%26+molecular+modelling;Reproducible%2C+preregistered+research)](https://github.com/Hafij-BGE)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Virology+%26+vaccine+development;Immunopeptidomics+%26+mass+spectrometry;Protein+machine+learning;Multi-omics+%26+molecular+modelling;Reproducible%2C+preregistered+research)](https://github.com/Hafij-BGE)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Hafij-BGE&color=8b5cf6&style=flat&label=Profile+views)
 
@@ -21,7 +21,8 @@
 ### 🧬 About me
 
 - 🎓 Master's student in **Biomedical Technology** at **Dokuz Eylül University**, Türkiye
-- 🔬 Background spanning **virology, vaccine development and molecular biology** alongside **molecular modelling and multi-omics analysis**
+- 🧪 **At the bench:** attenuated a wild fowlpox virus isolate by serial passage in embryonated duck eggs, formulated it as a vaccine, and ran the chicken trial and antibody analysis
+- 💻 **On the computer:** deep learning, immunopeptidomics, molecular docking and dynamics, multi-omics
 - 🧠 Current research: **deep learning–based prediction of protein–protein interactions**
 - 📐 I care about research that can be checked: preregistration, decision logs, QC gates, and keeping withdrawn results on the record
 - 🌍 Languages: Bengali (native) · English (C1) · Turkish (C1)
@@ -48,7 +49,19 @@
 
 ---
 
-### 🛠️ When I research, I rely on
+### 🧪 At the bench
+
+| Work | Where |
+|---|---|
+| **Attenuated fowlpox vaccine from a wild isolate** — serial passage in embryonated duck eggs, vaccine formulation with adjuvant, chicken trial and antibody analysis | MSc thesis, Bangladesh Agricultural University (2023–24) |
+| **CRISPR–microfluidic platform** for automated point-of-care pathogen detection | Oral presentation, DEUISGR 2025 |
+| **Plant extracts vs 15-lipoxygenase inflammation** — *in vitro* bioactivity of amla and garlic, paired with simulation | Published, 2023 |
+
+**Techniques:** virus propagation & attenuation · vaccine formulation & trials · antibody analysis · DNA/RNA extraction & quantification · microbial culture & biochemical testing · *in vitro* assays
+
+---
+
+### 💻 Computational toolkit
 
 **Languages & ML**
 
@@ -76,10 +89,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Laboratory**
-
-Molecular biology techniques · microbial culture & biochemical testing · virus propagation & vaccine development · DNA/RNA extraction & quantification
 
 ---
 
