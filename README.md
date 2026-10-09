@@ -10,8 +10,11 @@
 
 [![Website](https://img.shields.io/badge/Website-hafij--bge.github.io-2546C9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hafij-bge.github.io)
 
-[![Email](https://img.shields.io/badge/Email-hafijurrahman.hr10%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:hafijurrahman.hr10@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=DysvV2AAAAAJ&hl=en)
+[![Scopus](https://img.shields.io/badge/Scopus-E9711C?logo=elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57310313500)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4031--6475-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4031-6475)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-hafijur-rahman-90ab85139)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:hafijurrahman.hr10@gmail.com)
 ![Location](https://img.shields.io/badge/📍-İzmir,%20Türkiye-0969da)
 
 </div>
