@@ -8,6 +8,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Hafij-BGE&color=8b5cf6&style=flat&label=Profile+views)
 
+[![Website](https://img.shields.io/badge/Website-hafij--bge.github.io-2546C9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hafij-bge.github.io)
+
 [![Email](https://img.shields.io/badge/Email-hafijurrahman.hr10%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:hafijurrahman.hr10@gmail.com)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4031--6475-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4031-6475)
 ![Location](https://img.shields.io/badge/📍-İzmir,%20Türkiye-0969da)
