@@ -62,25 +62,53 @@
 
 **Bench toolkit**
 
-*Virology & vaccines*
+🧬 *Molecular biology*
 
-![Virus propagation](https://img.shields.io/badge/Virus%20propagation%20(egg)-23805A?style=for-the-badge)
-![Attenuation](https://img.shields.io/badge/Serial%20passage%20attenuation-23805A?style=for-the-badge)
-![Vaccine formulation](https://img.shields.io/badge/Vaccine%20formulation-23805A?style=for-the-badge)
-![Animal trials](https://img.shields.io/badge/Animal%20trials-23805A?style=for-the-badge)
-![Antibody analysis](https://img.shields.io/badge/Antibody%20analysis-23805A?style=for-the-badge)
+![PCR](https://img.shields.io/badge/PCR-2563EB?style=for-the-badge)
+![PCR purification](https://img.shields.io/badge/PCR%20product%20purification-2563EB?style=for-the-badge)
+![DNA/RNA extraction](https://img.shields.io/badge/DNA%20%2F%20RNA%20extraction-2563EB?style=for-the-badge)
+![DNA quantification](https://img.shields.io/badge/DNA%20isolation%20%26%20quantification-2563EB?style=for-the-badge)
+![Restriction digestion](https://img.shields.io/badge/Restriction%20digestion-2563EB?style=for-the-badge)
+![Agarose gel](https://img.shields.io/badge/Agarose%20gel%20electrophoresis-2563EB?style=for-the-badge)
 
-*Molecular biology*
+🦠 *Microbiology & antimicrobial*
 
-![DNA/RNA extraction](https://img.shields.io/badge/DNA%2FRNA%20extraction-2F8F6B?style=for-the-badge)
-![Quantification](https://img.shields.io/badge/Nucleic%20acid%20quantification-2F8F6B?style=for-the-badge)
-![Molecular biology](https://img.shields.io/badge/Molecular%20biology%20techniques-2F8F6B?style=for-the-badge)
+![Microbial culture](https://img.shields.io/badge/Microbial%20cell%20culture-0E9F6E?style=for-the-badge)
+![Morphological & biochemical assays](https://img.shields.io/badge/Morphological%20%26%20biochemical%20assays-0E9F6E?style=for-the-badge)
+![Cell counting](https://img.shields.io/badge/Cell%20counting-0E9F6E?style=for-the-badge)
+![Antibiotic potency](https://img.shields.io/badge/Antibiotic%20potency%20assay-0E9F6E?style=for-the-badge)
+![Disc diffusion](https://img.shields.io/badge/Disc%20diffusion%20screening-0E9F6E?style=for-the-badge)
+![MIC](https://img.shields.io/badge/Serial%20dilution%20(MIC)-0E9F6E?style=for-the-badge)
 
-*Microbiology & in vitro*
+🧫 *Immunoassays*
 
-![Microbial culture](https://img.shields.io/badge/Microbial%20culture-3DA17E?style=for-the-badge)
-![Biochemical testing](https://img.shields.io/badge/Biochemical%20testing-3DA17E?style=for-the-badge)
-![In vitro assays](https://img.shields.io/badge/In%20vitro%20bioactivity%20assays-3DA17E?style=for-the-badge)
+![ELISA](https://img.shields.io/badge/ELISA-7C3AED?style=for-the-badge)
+![Hepatitis B](https://img.shields.io/badge/Hepatitis%20B%20kit%20detection-7C3AED?style=for-the-badge)
+
+🐣 *Virology & vaccines*
+
+![Chick embryo](https://img.shields.io/badge/Viral%20replication%20in%20chick%20embryo-DC2626?style=for-the-badge)
+![Attenuation](https://img.shields.io/badge/Serial%20passage%20attenuation-DC2626?style=for-the-badge)
+![Vaccine formulation](https://img.shields.io/badge/Vaccine%20formulation-DC2626?style=for-the-badge)
+![Animal trials](https://img.shields.io/badge/Animal%20trials-DC2626?style=for-the-badge)
+![Antibody analysis](https://img.shields.io/badge/Antibody%20analysis-DC2626?style=for-the-badge)
+
+🧪 *Biochemistry*
+
+![Carbohydrate tests](https://img.shields.io/badge/Carbohydrate%20tests%20(Molisch%2C%20Benedict)-EA580C?style=for-the-badge)
+![Protein tests](https://img.shields.io/badge/Protein%20tests%20(Ninhydrin%2C%20Biuret)-EA580C?style=for-the-badge)
+![Nelson-Somogyi](https://img.shields.io/badge/Sugar%20assay%20(Nelson%E2%80%93Somogyi)-EA580C?style=for-the-badge)
+
+💧 *Water & environmental*
+
+![Physicochemical](https://img.shields.io/badge/Physicochemical%20(pH%2C%20turbidity%2C%20BOD%2C%20DO)-0891B2?style=for-the-badge)
+![Membrane filtration](https://img.shields.io/badge/Membrane%20filtration%20bacteriology-0891B2?style=for-the-badge)
+
+⚗️ *Chromatography & separation*
+
+![Ion exchange](https://img.shields.io/badge/Ion%E2%80%91exchange%20column%20(resin)-DB2777?style=for-the-badge)
+![Paper chromatography](https://img.shields.io/badge/Paper%20chromatography-DB2777?style=for-the-badge)
+![Column chromatography](https://img.shields.io/badge/Column%20chromatography-DB2777?style=for-the-badge)
 
 ---
 
